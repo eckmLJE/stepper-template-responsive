@@ -1,0 +1,24 @@
+{
+  "name": "stepper-teamplate-responsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eckmLJE/stepper-template-responsive.git"
+  },
+  "keywords": [],
+  "author": "Lucas Eckman <lucas.eckman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eckmLJE/stepper-template-responsive/issues"
+  },
+  "homepage": "https://github.com/eckmLJE/stepper-template-responsive#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
